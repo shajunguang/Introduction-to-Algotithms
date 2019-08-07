@@ -1,4 +1,4 @@
-# 合并排序和插入排序
+# 合并排序和插入排序的合体
 from Insertion_Sort import insertion_sort
 
 

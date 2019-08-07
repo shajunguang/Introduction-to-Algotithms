@@ -1,4 +1,4 @@
-# 合并排序+二分查找 O(nlgn)+O(n)=O(nlgn)  解决找出数组两个数求和为某数的问题：先用归并排序，再使用二分查找
+# 合并排序+滑窗法查找 O(nlgn)+O(n)=O(nlgn)  解决找出数组两个数求和为某数的问题：先用归并排序，再使用滑窗法查找
 from Merge_Sort import merge_sort
 
 

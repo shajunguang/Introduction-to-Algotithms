@@ -1,4 +1,4 @@
-# 合并排序+二分查找 O(nlgn)+O(nlgn)=O(nlgn)
+# 合并排序+二分查找 O(nlgn)+O(nlgn)=O(nlgn)  解决数组中寻找两数和为定值的问题：先使用归并排序排序数组，再二分查找数。
 from Merge_Sort import merge_sort
 from Binary_Search import recursive_binary_search
 
